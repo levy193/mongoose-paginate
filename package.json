@@ -35,11 +35,13 @@
   "engines": {
     "node": ">=4.2.4"
   },
-  "dependencies": {},
+  "dependencies": {
+    "bluebird": "^3.5.2"
+  },
   "devDependencies": {
-    "mongoose": "4.3.4",
+    "chai": "3.4.1",
     "mocha": "2.3.4",
-    "chai": "3.4.1"
+    "mongoose": "4.3.4"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha tests/*.js -R spec --ui bdd --timeout 5000"
