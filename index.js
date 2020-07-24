@@ -1,5 +1,3 @@
-var Promise = require('bluebird');
-
 /**
  * @param {Object}              [query={}]
  * @param {Object}              [options={}]

@@ -17,11 +17,6 @@ bluebird@2.9.26:
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-2.9.26.tgz#362772ea4d09f556a4b9f3b64c2fd136e87e3a55"
   integrity sha1-Nidy6k0J9VakufO2TC/RNuh+OlU=
 
-bluebird@^3.5.2:
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.2.tgz#1be0908e054a751754549c270489c1505d4ab15a"
-  integrity sha512-dhHTWMI7kMx5whMQntl7Vr9C6BvV10lFXDAasnqnrMYhXVCzzk6IO9Fo2L75jXHT07WrOngL1WDXOp+yYS91Yg==
-
 bson@0.4.19:
   version "0.4.19"
   resolved "https://registry.yarnpkg.com/bson/-/bson-0.4.19.tgz#1a340f39a83d163c18af9c5ca92d2b697a35be41"

@@ -1,6 +1,6 @@
 {
   "name": "mongoose-paginate",
-  "description": "Pagination plugin for Mongoose",
+  "description": "Pagination plugin for Mongoose upgrade for mongodb 4.0 +",
   "version": "5.0.2",
   "author": {
     "name": "Edward Hotchkiss",
@@ -35,9 +35,7 @@
   "engines": {
     "node": ">=4.2.4"
   },
-  "dependencies": {
-    "bluebird": "^3.5.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "3.4.1",
     "mocha": "2.3.4",
